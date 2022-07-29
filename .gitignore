@@ -1,0 +1,6 @@
+
+data/tfidf_features.npz
+data/GoogleNews-vectors-negative300.bin
+q1_embeddings.pkl
+q2_embeddings.pkl
+data/word2vec-google-news-300.gz
